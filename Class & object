@@ -1,0 +1,18 @@
+class A
+{
+int a=10;String b="Abdullah";
+
+void show()
+{
+System.out.print(a+" "+b);
+}
+}
+
+class Abdullah
+{
+public static void main(String args[])
+{
+A r=new A();
+r.show();
+}
+}
